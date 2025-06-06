@@ -64,20 +64,6 @@ Traditional intrusion detection systems often struggle with threats hidden insid
 
 ---
 
-## 📁 Project Structure
-
-```
-Encrypted-Traffic-Threat-Hunter/
-├── data/                 # All CSV logs and labeled data
-├── models/               # Saved ML models (.pkl)
-├── scripts/              # Python scripts for parsing, training, inference
-├── images/               # Visualizations (optional)
-├── README.md             # This file
-└── requirements.txt      # pip dependencies
-```
-
----
-
 ## 🔍 Key Features
 
 * **No packet decryption** required ✅
