@@ -126,7 +126,7 @@ python scripts/visualize_predictions.py
 
 ## 🙋‍♂️ Author
 
-**Nishant Singh** – Cybersecurity Engineer, passionate about encrypted threat detection & SOC automation.
+**NeoNegatron** – Cybersecurity Engineer, passionate about encrypted threat detection & SOC automation.
 
 ---
 
